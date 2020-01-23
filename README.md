@@ -1,16 +1,16 @@
-# 02-DataVis-10ways
+# 02-DataVis-7ways
 
-Assignment 2 - Data Visualization, 10 Ways  
+Assignment 2 - Data Visualization, 7 Ways  
 ===
 
-Now that you have successfully made a "visualization" of shapes and lines using d3, your next assignment is to successfully make a *actual visualization*... 10 times. 
+Now that you have successfully made a "visualization" of shapes and lines using d3, your next assignment is to successfully make a *actual visualization*... 7 times. 
 
 The goal of this project is to gain experience with as many data visualization libraries, languages, and tools as possible.
 
 I have provided a small dataset about cars, `cars-sample.csv`.
 Each row contains a car and several variables about it, including miles-per-gallon, manufacturer, and more.
 
-Your goal is to use 10 different tools to make the following chart:
+Your goal is to use 7 different tools to make the following chart:
 
 ![ggplot2](img/ggplot2.png)
 
@@ -36,12 +36,12 @@ Improvements are also welcome as part of Technical and Design achievements.
 Libraries, Tools, Languages
 ---
 
-You are required to use 10 different tools.
-Of the 10 tools, you must use at least 3 languages.
+You are required to use 7 different tools or libraries.
+Of the 7 tools, you must use at least 3 libraries (libraries require code of some kind).
 This could be `Python, R, Javascript`, or `Java, Javascript, Matlab` or any other combination.
 Dedicated tools (i.e. Excel) do not count towards the language requirement.
 
-Otherwise, you should seek tools and libraries to fill out your 10.
+Otherwise, you should seek tools and libraries to fill out your 7.
 
 Below are a few ideas. Do not limit yourself to this list!
 Some may be difficult choices, like Matlab or SPSS, which require large installations, licenses, and occasionally difficult UIs.
