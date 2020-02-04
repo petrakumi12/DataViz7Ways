@@ -2,6 +2,8 @@
 
 Assignment 2 - Data Visualization, 7 Ways  
 ===
+
+
  ## Overall Design Achievements
 - Added legends for all plots that show the type of manufacturer with the corresponding color and/or weight
 - Added background major and minor grids (except for D3 where I only did major, and Excel where the software only allowed me to do major)
@@ -11,11 +13,14 @@ Assignment 2 - Data Visualization, 7 Ways
  ![Image](img/Jupyter.PNG)
 
 
+
 ** There are also individual design/technical achievements for every visualization
  
  ## Vis 1: Python with Matplotlib
+ 
  - In this visualization I was able to achieve all the criteria needed by the assignment, as well as add the grids and a legend
  ![Image](img/matplotlib.PNG)
+ 
  
  
  ## Vis 2: Python with Plotly
@@ -23,6 +28,7 @@ Assignment 2 - Data Visualization, 7 Ways
  ### Design/Technical Achievements
  - Hovering over the data points will show the exact values of Weight and MPG for that point, as well as manufacturer
  ![Image](img/plotly.PNG)
+
 
 
  ## Vis 3: Matlab
@@ -38,7 +44,9 @@ Assignment 2 - Data Visualization, 7 Ways
  ![Image](img/matlab.PNG)
 
  
+ 
  ## Vis 4:  D3
+ 
  - I was unable to reproduce the background color exactly with D3 but everything else was just fine
  
  ## Design achievement
@@ -49,22 +57,30 @@ Assignment 2 - Data Visualization, 7 Ways
  
  ## Technical Achievement
  - Hovering over the datapoints will show information about the manufacturer, weight, and MPG
+  
   ![Image](img/d3.PNG)
 
 
+
  ## Vis 5: R
+ 
  - Nothing particularly special about this one
+ 
   ![Image](img/R.png)
 
  
+ 
  ## Vis 6: Seaborn
-  ![Image]()
+ 
+  ![Image](img/seaborn.PNG)
+
 
  
  ## Vis 7: Excel
+ 
  - Excel offers very little tools to manipulate my graph, so because of this I was unable to tweak the size of the scatterplot markers based on weight.
 - Other limitations included not being able to choose the location of the ticks and not being able to manually create major and minor grids.
 
- ![Image]()
+ ![Image](img/excel.PNG)
 
  
